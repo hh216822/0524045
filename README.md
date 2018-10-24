@@ -43,9 +43,8 @@
 
 # 系統畫面
 
-
+![image](https://github.com/landy713/0524045/blob/master/%E7%B3%BB%E7%B5%B1%E7%95%AB%E9%9D%A2.png)
 
 # 系統活動圖 
 
-
-
+![image](https://github.com/landy713/0524045/blob/master/%E7%B3%BB%E7%B5%B1%E6%B4%BB%E5%8B%95%E5%9C%96.PNG)
