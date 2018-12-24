@@ -73,7 +73,7 @@
 
 # 維護作業
 ## 使用案例
-![image](https://github.com/landy713/0524045/blob/master/Use%20case/%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B-%E7%AE%A1%E7%90%86%E4%BD%9C%E6%A5%AD.PNG)
+![image](https://github.com/landy713/0524045/blob/master/Use%20case/%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B-%E7%B6%AD%E8%AD%B7%E4%BD%9C%E6%A5%AD.PNG)
 ## 系統活動圖
 ## 類別圖
 ## 循序圖
