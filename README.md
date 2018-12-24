@@ -1,4 +1,3 @@
-https://github.com/landy713/0524045#%E5%88%A9%E5%AE%B3%E9%97%9C%E4%BF%82%E4%BA%BA%E7%9B%AE%E6%A8%99%E8%A1%A8
 # 個人資訊
 0524045 黃靖嵐
 
