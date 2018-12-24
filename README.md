@@ -36,11 +36,51 @@
 |------|-------|
 |1.用戶註冊、登錄<br>2.用戶購買商品<br>3.用戶上架商品<br>4.用戶管理帳號<br>5.用戶瀏覽星球<br>6.開發人員上架新商品|●登入作業<br>●買賣作業<br> <br>●管理作業<br>●查詢作業<br>●上架作業|
 
+# 登入作業
+## 使用案例
+![image](https://github.com/landy713/0524045/blob/master/Use%20case/%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B-%E7%99%BB%E5%85%A5%E4%BD%9C%E6%A5%AD.PNG)
+## 系統活動圖
+## 類別圖
+## 循序圖
+
+# 管理作業
+## 使用案例
+![image](https://github.com/landy713/0524045/blob/master/Use%20case/%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B-%E7%AE%A1%E7%90%86%E4%BD%9C%E6%A5%AD.PNG)
+## 系統活動圖
+## 類別圖
+## 循序圖
+
+# 買賣作業
+## 使用案例
+![image](https://github.com/landy713/0524045/blob/master/Use%20case/%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B-%E8%B2%B7%E8%B3%A3%E4%BD%9C%E6%A5%AD.PNG)
+## 系統活動圖
+## 類別圖
+## 循序圖
+
+# 查詢作業
+## 使用案例
+![image](https://github.com/landy713/0524045/blob/master/Use%20case/%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B-%E6%9F%A5%E8%A9%A2%E4%BD%9C%E6%A5%AD.PNG)
+## 系統活動圖
+## 類別圖
+## 循序圖
+
+# 商店作業
+## 使用案例
+![image](https://github.com/landy713/0524045/blob/master/Use%20case/%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B-%E7%B6%AD%E8%AD%B7%E4%BD%9C%E6%A5%AD.PNG)
+## 系統活動圖
+## 類別圖
+## 循序圖
+
+# 維護作業
+## 使用案例
+![image](https://github.com/landy713/0524045/blob/master/Use%20case/%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B-%E7%AE%A1%E7%90%86%E4%BD%9C%E6%A5%AD.PNG)
+## 系統活動圖
+## 類別圖
+## 循序圖
 # 使用案例圖 
 
-![image](https://github.com/landy713/0524045/blob/master/%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B%E5%9C%96.PNG)
+![image](https://github.com/landy713/0524045/blob/master/Use%20case/%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B-%E7%99%BB%E5%85%A5%E4%BD%9C%E6%A5%AD.PNG)
 
-# 寫出其中一個最重要的使用案例 
 
 ![image](https://github.com/landy713/0524045/blob/master/%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B.PNG)
 
@@ -48,6 +88,8 @@
 
 ![image](https://github.com/landy713/0524045/blob/master/%E7%B3%BB%E7%B5%B1%E7%95%AB%E9%9D%A2.png)
 
-# 系統活動圖 
+# 系統程式碼
 
-![image](https://github.com/landy713/0524045/blob/master/%E7%B3%BB%E7%B5%B1%E6%B4%BB%E5%8B%95%E5%9C%96.PNG)
+# 目前的執行進度報告
+
+# 測試計畫
