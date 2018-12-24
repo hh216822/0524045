@@ -40,6 +40,7 @@
 ## 使用案例
 ![image](https://github.com/landy713/0524045/blob/master/Use%20case/%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B-%E7%99%BB%E5%85%A5%E4%BD%9C%E6%A5%AD.PNG)
 ## 系統活動圖
+![image](https://github.com/landy713/0524045/blob/master/Activity%20diagram/%E7%B3%BB%E7%B5%B1%E6%B4%BB%E5%8B%95%E5%9C%96-%E7%99%BB%E5%85%A5%E4%BD%9C%E6%A5%AD.PNG)
 ## 類別圖
 ## 循序圖
 
@@ -47,6 +48,7 @@
 ## 使用案例
 ![image](https://github.com/landy713/0524045/blob/master/Use%20case/%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B-%E7%AE%A1%E7%90%86%E4%BD%9C%E6%A5%AD.PNG)
 ## 系統活動圖
+![image](https://github.com/landy713/0524045/blob/master/Activity%20diagram/%E7%B3%BB%E7%B5%B1%E6%B4%BB%E5%8B%95%E5%9C%96-%E7%AE%A1%E7%90%86%E4%BD%9C%E6%A5%AD.PNG)
 ## 類別圖
 ## 循序圖
 
@@ -54,6 +56,7 @@
 ## 使用案例
 ![image](https://github.com/landy713/0524045/blob/master/Use%20case/%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B-%E8%B2%B7%E8%B3%A3%E4%BD%9C%E6%A5%AD.PNG)
 ## 系統活動圖
+![image](https://github.com/landy713/0524045/blob/master/Activity%20diagram/%E7%B3%BB%E7%B5%B1%E6%B4%BB%E5%8B%95%E5%9C%96-%E8%B2%B7%E8%B3%A3%E4%BD%9C%E6%A5%AD.PNG)
 ## 類別圖
 ## 循序圖
 
@@ -61,6 +64,7 @@
 ## 使用案例
 ![image](https://github.com/landy713/0524045/blob/master/Use%20case/%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B-%E6%9F%A5%E8%A9%A2%E4%BD%9C%E6%A5%AD.PNG)
 ## 系統活動圖
+![image](https://github.com/landy713/0524045/blob/master/Activity%20diagram/%E7%B3%BB%E7%B5%B1%E6%B4%BB%E5%8B%95%E5%9C%96-%E6%9F%A5%E8%A9%A2%E4%BD%9C%E6%A5%AD.PNG)
 ## 類別圖
 ## 循序圖
 
@@ -68,6 +72,7 @@
 ## 使用案例
 ![image](https://github.com/landy713/0524045/blob/master/Use%20case/%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B-%E5%95%86%E5%BA%97%E4%BD%9C%E6%A5%AD.PNG)
 ## 系統活動圖
+![image](https://github.com/landy713/0524045/blob/master/Activity%20diagram/%E7%B3%BB%E7%B5%B1%E6%B4%BB%E5%8B%95%E5%9C%96-%E5%95%86%E5%BA%97%E4%BD%9C%E6%A5%AD.PNG)
 ## 類別圖
 ## 循序圖
 
@@ -75,14 +80,11 @@
 ## 使用案例
 ![image](https://github.com/landy713/0524045/blob/master/Use%20case/%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B-%E7%B6%AD%E8%AD%B7%E4%BD%9C%E6%A5%AD.PNG)
 ## 系統活動圖
+![image](https://github.com/landy713/0524045/blob/master/Activity%20diagram/%E7%B3%BB%E7%B5%B1%E6%B4%BB%E5%8B%95%E5%9C%96-%E7%B6%AD%E8%AD%B7%E4%BD%9C%E6%A5%AD.PNG)
 ## 類別圖
 ## 循序圖
-# 使用案例圖 
-
-![image](https://github.com/landy713/0524045/blob/master/Use%20case/%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B-%E7%99%BB%E5%85%A5%E4%BD%9C%E6%A5%AD.PNG)
 
 
-![image](https://github.com/landy713/0524045/blob/master/%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B.PNG)
 
 # 系統畫面
 
