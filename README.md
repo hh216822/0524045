@@ -18,8 +18,9 @@
 [簡介](#1)   
 [目標](#2)  
 [利害關係人目標表](#3)   
-[事件表](#4)   
-[使用案例圖](#5)      
+[事件表](#4)
+[使用案例圖](#5)
+[類別圖](#18)
 [一、登入作業](#6)   
 [二、管理作業](#7)   
 [三、買賣作業](#8)   
@@ -55,16 +56,20 @@
 
    [TOP](#top)  
    
-# <a name="18"/>類別圖
- ![image](https://github.com/landy713/0524045/blob/master/%E9%A1%9E%E5%88%A5%E5%9C%96.PNG)
 
-[TOP](#top)
  
    
 # <a name="5"/>使用案例圖
 ![image](https://github.com/landy713/0524045/blob/master/%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B%E5%9C%96-1.PNG)
 
 [TOP](#top)
+
+# <a name="18"/>類別圖
+ ![image](https://github.com/landy713/0524045/blob/master/%E9%A1%9E%E5%88%A5%E5%9C%96.PNG)
+
+[TOP](#top)
+
+
 # <a name="6"/>一、登入作業
 ## 使用案例
 ![image](https://github.com/landy713/0524045/blob/master/Use%20case/%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B-%E7%99%BB%E5%85%A5%E4%BD%9C%E6%A5%AD.PNG)
@@ -72,7 +77,7 @@
 ![image](https://github.com/landy713/0524045/blob/master/Activity%20diagram/%E7%B3%BB%E7%B5%B1%E6%B4%BB%E5%8B%95%E5%9C%96-%E7%99%BB%E5%85%A5%E4%BD%9C%E6%A5%AD.PNG)
 
 ## 循序圖
-![image]()  
+![image](https://github.com/landy713/0524045/blob/master/Sequence%20diagram/%E5%BE%AA%E5%BA%8F%E5%9C%96-%E7%99%BB%E5%85%A5.png)  
 
 [TOP](#top)
 # <a name="7"/>二、管理作業
@@ -84,7 +89,7 @@
 ## 循序圖
 
 
-![image]()  
+![image](https://github.com/landy713/0524045/blob/master/Sequence%20diagram/%E5%BE%AA%E5%BA%8F%E5%9C%96-%E7%AE%A1%E7%90%86.png)  
 
 [TOP](#top)
 # <a name="8"/>三、買賣作業
@@ -94,7 +99,7 @@
 ![image](https://github.com/landy713/0524045/blob/master/Activity%20diagram/%E7%B3%BB%E7%B5%B1%E6%B4%BB%E5%8B%95%E5%9C%96-%E8%B2%B7%E8%B3%A3%E4%BD%9C%E6%A5%AD.PNG)
 
 ## 循序圖
-![image]()  
+![image](https://github.com/landy713/0524045/blob/master/Sequence%20diagram/%E5%BE%AA%E5%BA%8F%E5%9C%96-%E8%B2%B7%E8%B3%A3.png)  
 
 [TOP](#top)
 # <a name="9"/>四、查詢作業
@@ -104,7 +109,7 @@
 ![image](https://github.com/landy713/0524045/blob/master/Activity%20diagram/%E7%B3%BB%E7%B5%B1%E6%B4%BB%E5%8B%95%E5%9C%96-%E6%9F%A5%E8%A9%A2%E4%BD%9C%E6%A5%AD.PNG)
 
 ## 循序圖
-![image]()  
+![image](https://github.com/landy713/0524045/blob/master/Sequence%20diagram/%E5%BE%AA%E5%BA%8F%E5%9C%96-%E6%9F%A5%E8%A9%A2.png)  
 
 [TOP](#top)
 # <a name="10"/>五、商店作業
@@ -114,7 +119,7 @@
 ![image](https://github.com/landy713/0524045/blob/master/Activity%20diagram/%E7%B3%BB%E7%B5%B1%E6%B4%BB%E5%8B%95%E5%9C%96-%E5%95%86%E5%BA%97%E4%BD%9C%E6%A5%AD.PNG)
 
 ## 循序圖
-![image]()  
+![image](https://github.com/landy713/0524045/blob/master/Sequence%20diagram/%E5%BE%AA%E5%BA%8F%E5%9C%96-%E5%95%86%E5%BA%97.png)  
 
 [TOP](#top)
 # <a name="11"/>六、維護作業
@@ -123,7 +128,7 @@
 ## 系統活動圖
 ![image](https://github.com/landy713/0524045/blob/master/Activity%20diagram/%E7%B3%BB%E7%B5%B1%E6%B4%BB%E5%8B%95%E5%9C%96-%E7%B6%AD%E8%AD%B7%E4%BD%9C%E6%A5%AD.PNG)
 ## 循序圖
-![image]()  
+![image](https://github.com/landy713/0524045/blob/master/Sequence%20diagram/%E5%BE%AA%E5%BA%8F%E5%9C%96-%E7%B6%AD%E8%AD%B7.png)  
 
 [TOP](#top)
 # <a name="12"/>系統畫面
